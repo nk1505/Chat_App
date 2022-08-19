@@ -31,3 +31,6 @@ This software uses the following open source packages:
 - [Socket.io](https://socket.io/)
 - [Passport](https://www.passportjs.org/)
 
+## Author
+
+The author of this project is Nejc Kraševec, who wrote it as part of a summer computer camp. Link to my contact: https://direct.me/nejc-krasevec
